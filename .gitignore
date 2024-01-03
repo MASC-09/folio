@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+*.jpeg
+*.jpg
+*.png
+
 
 # testing
 /coverage
